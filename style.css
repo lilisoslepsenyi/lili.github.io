@@ -1,0 +1,78 @@
+{
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  background: url('https://i.pinimg.com/736x/23/a9/e6/23a9e652c4459a37910c8a50b368889c.jpg');
+  width: 1300px;
+  height: 200px;
+}
+
+header h1 {
+  font-size: 200%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: pink;
+  text-align: center;
+  text-shadow: 5px 5px 7px #000000;
+}
+ul {
+  background: #080808;
+  padding: 10px;
+}
+
+ul li {
+  background: #787878;
+  padding: 5px;
+  border: solid 2px white;
+  display: inline-block;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #C0C0C0;
+}
+.text {
+  display: flex;
+}
+.p1 {
+width: 400px;
+height: 100px;
+border: 10px solid #C0C5C6;
+padding: 50px;
+margin: 20px;
+background-color: #FFCCCC;
+color: black;
+text-align: center;
+}
+p.sitter {
+  font-size: 300%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  text-align: center;
+  text-shadow: 5px 5px 7px #000000;
+}
+nav {
+  text-align: center;
+}
+body {
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  background-image: url("https://www.therange.co.uk/_m5/4/7/1571305221_2_2549.jpg");
+}
+article h2 {
+text-align: center;
+}
+
+article p {
+font-size: 20px;
+}
+footer {
+  background: #F0F0F0;
+}
+footer h3 {
+  text-align: center;
+  font-weight: normal;
+  font-size: 90%;
